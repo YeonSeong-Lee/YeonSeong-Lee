@@ -1,7 +1,7 @@
 ### Hi Everyone👋
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TOML       7 mins          ████████████████████▓░░░░   82.61 % 
 ```
 <!--END_SECTION:waka-->
 
