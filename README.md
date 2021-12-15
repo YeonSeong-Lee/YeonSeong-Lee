@@ -1,4 +1,7 @@
 ### Hi Everyone👋
+
+#### This is my week coding record.
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   5 hrs 8 mins    █████████████░░░░░░░░░░░░   52.19 % 
