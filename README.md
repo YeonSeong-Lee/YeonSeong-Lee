@@ -4,9 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java           3 hrs 9 mins    ███████████░░░░░░░░░░░░░░   44.45 % 
-JavaScript     2 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   40.05 % 
-HTTP Request   1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+JavaScript     3 hrs 41 mins   ███████████▒░░░░░░░░░░░░░   44.85 % 
+Java           3 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   38.47 % 
+HTTP Request   1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+JSON           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 <!--END_SECTION:waka-->
 
