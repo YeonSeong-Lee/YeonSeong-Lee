@@ -4,10 +4,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java           3 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.94 % 
-JavaScript     1 hr 47 mins    ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-HTTP Request   1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.88 % 
-JSON           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JavaScript   1 hr 5 mins     ████████████████████░░░░░   79.56 % 
+JSON         16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 ```
 <!--END_SECTION:waka-->
 
