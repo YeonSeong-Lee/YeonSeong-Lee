@@ -4,8 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C      13 mins         ██████████████████████▒░░   89.28 % 
-JSON   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
