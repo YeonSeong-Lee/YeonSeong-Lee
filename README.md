@@ -3,12 +3,14 @@
 #### This is my week coding record.
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   8 hrs 37 mins   ████████████████████████░   96.57 % 
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JavaScript   6 hrs 58 mins   █████████████████████████   99.65 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 
