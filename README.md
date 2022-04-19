@@ -15,6 +15,7 @@ Other        8 mins          ██▓░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+### I'm interested in Data Visualization.
 
 <!--
 **YeonSeong-Lee/YeonSeong-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
