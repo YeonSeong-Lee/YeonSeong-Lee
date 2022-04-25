@@ -7,9 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   23 mins         ███████████████████████▓░   94.14 %
-Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Bash         1 min           ██████████████████████▒░░   89.56 %
+TypeScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
 ```
 
 <!--END_SECTION:waka-->
