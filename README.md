@@ -19,6 +19,12 @@ JSON         39 mins         ▓░░░░░░░░░░░░░░░░
 
 ### I'm interested in Data Visualization.
 
+
+### What i made
+
+- [랜덤 닉네임 생성기 npm 패키지](https://www.npmjs.com/package/korean-random-names-generator)
+
+
 <!--
 **YeonSeong-Lee/YeonSeong-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
