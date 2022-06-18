@@ -5,6 +5,7 @@
 ### What i made
 
 - [랜덤 닉네임 생성기 npm 패키지](https://www.npmjs.com/package/korean-random-names-generator)
+- [교육 커뮤니티 접속 앱](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)
 
 ---
 
