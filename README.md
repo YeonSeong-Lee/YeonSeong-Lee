@@ -7,6 +7,9 @@
 - [랜덤 닉네임 추천 사이트](https://yeonseong-lee.github.io/random-nickname-website/)
 - [교육 커뮤니티 접속 앱](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)
 
+
+### What i analysis
+- [42 서울 도서관 2022 2분기 보고서](https://rpubs.com/yeonseong/jiphyeonjeon_2022_2Q)
 ---
 
 #### This is my week coding record.
