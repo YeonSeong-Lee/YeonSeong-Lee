@@ -1,7 +1,6 @@
 [![seongyle's 42 stats](https://badge42.vercel.app/api/v2/cl260u6td000609l4p4inxynw/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
-[![yeonseong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeonseong)]
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ### What i made
 - [42서울 도서관: 대출,반납,예약 책관리 시스템](https://42library.kr/)
