@@ -11,7 +11,7 @@
 ---
 
 #### This is my week coding record.
-[![yeonseong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=유저이름)]
+[![yeonseong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeonseong)]
 <!--START_SECTION:waka-->
 
 ```text
