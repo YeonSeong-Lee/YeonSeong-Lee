@@ -1,5 +1,8 @@
 [![seongyle's 42 stats](https://badge42.vercel.app/api/v2/cl260u6td000609l4p4inxynw/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
+[![yeonseong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeonseong)]
+
+
 ### What i made
 - [42서울 도서관: 대출,반납,예약 책관리 시스템](https://42library.kr/)
 - [랜덤 닉네임 추천 사이트](https://yeonseong-lee.github.io/random-nickname-website/)
@@ -11,7 +14,6 @@
 ---
 
 #### This is my week coding record.
-[![yeonseong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeonseong)]
 <!--START_SECTION:waka-->
 
 ```text
