@@ -7,6 +7,7 @@
 - [42서울 도서관: 대출,반납,예약 책관리 시스템](https://42library.kr/)
 - [랜덤 닉네임 추천 라이브러리](https://yeonseong-lee.github.io/random-nickname-website/)
 - [교육 커뮤니티 접속 앱](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)
+- [알고리즘 스터디 모임 관리 슬랙봇](https://github.com/helloAlgorithms/RedKiKi)
 
 
 ### What i analysis
