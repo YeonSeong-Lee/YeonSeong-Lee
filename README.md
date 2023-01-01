@@ -11,8 +11,9 @@
 
 
 ### What i analysis
-- [42 서울 도서관 2022 2분기 보고서](https://rpubs.com/yeonseong/jiphyeonjeon_2022_2Q)
-- [42 서울 도서관 2022 3분기 보고서](https://rpubs.com/yeonseong/jiphyeonjeon_2022_3Q)
+- [42서울 도서관 2022 2분기 보고서](https://rpubs.com/yeonseong/jiphyeonjeon_2022_2Q)
+- [42서울 도서관 2022 3분기 보고서](https://rpubs.com/yeonseong/jiphyeonjeon_2022_3Q)
+- [42서울 도서관 2022년 총 결산](https://rpubs.com/yeonseong/jiphyeonjeon_2022_total)
 
 
 ### What i design
