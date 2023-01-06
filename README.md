@@ -37,7 +37,7 @@ Other        1 hr 43 mins    ███▓░░░░░░░░░░░░░
 - [예비 창업자 패키지](http://www.hufsnews.co.kr/news/articleView.html?idxno=21661)
 - [2022 이노콘](https://platum.kr/archives/198709)
 ---
-### I'm interested in Data Visualization.
+### I'm interested in Data Visualization and 3D graphic.
 
 
 
