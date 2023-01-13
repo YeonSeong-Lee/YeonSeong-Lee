@@ -38,7 +38,7 @@ Bash         2 mins          ░░░░░░░░░░░░░░░░░
 --- 
 
 ### me in media
-- [4.19 장학회](https://www.hufs.ac.kr/user/boardList.action?command=view&page=34&boardId=41994&boardSeq=120667021)
+<!-- - [4.19 장학회](https://www.hufs.ac.kr/user/boardList.action?command=view&page=34&boardId=41994&boardSeq=120667021) -->
 - [예비 창업자 패키지](http://www.hufsnews.co.kr/news/articleView.html?idxno=21661)
 - [2022 이노콘](https://platum.kr/archives/198709)
 ---
