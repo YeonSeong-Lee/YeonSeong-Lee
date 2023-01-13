@@ -18,6 +18,8 @@
 
 ### What i design
 - [42 polar logo](https://github.com/YeonSeong-Lee/SecondBrain/blob/main/design/polar_logo_seongyle/logo_story.md)
+- [404 에러페이지 디자인](https://yeonseong-lee.github.io/web_graphics/blob/main/404.html)
+
 ---
 
 #### This is my week coding record.
