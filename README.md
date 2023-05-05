@@ -5,11 +5,9 @@
 
 ### What i made
 - [42서울 도서관: 대출,반납,예약 책관리 시스템](https://42library.kr/)
-- [랜덤 닉네임 추천 라이브러리](https://yeonseong-lee.github.io/random-nickname-website/)
 - [교육 커뮤니티 접속 앱](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)
 - [알고리즘 스터디 모임 관리 슬랙봇](https://github.com/helloAlgorithms/RedKiKi)
 - [web cube 3d](https://github.com/YeonSeong-Lee/web_cube3d)
-- [아재 개그 생성기 npm 패키지](https://www.npmjs.com/package/az-gen)
 - [42서울 benefits 사이트](https://benefit.42seoul.link/)
 
 
@@ -22,6 +20,10 @@
 ### What i design
 - [42 polar logo](https://yeonseong.netlify.app/design/polar-logo-seongyle/polar-logo-story/)
 - [404 에러페이지 디자인](https://yeonseong-lee.github.io/web_graphics/blob/main/404.html)
+
+### What i made package
+ <a href="https://nodei.co/npm/az-generator/"><img src="https://nodei.co/npm/az-generator.png"></a>
+ <a href="https://nodei.co/npm/korean-random-names-generator/"><img src="https://nodei.co/npm/korean-random-names-generator.png"></a>
 
 ---
 
