@@ -30,7 +30,7 @@
 #### This is my week coding record.
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
