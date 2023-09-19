@@ -23,7 +23,6 @@
 
 
 ### What i design
-- [42 polar logo](https://yeonseong.netlify.app/design/polar-logo-seongyle/polar-logo-story/)
 - [404 에러페이지 디자인](https://yeonseong-lee.github.io/web_graphics/blob/main/404.html)
 
 ### packages i made
