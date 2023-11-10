@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   43 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
