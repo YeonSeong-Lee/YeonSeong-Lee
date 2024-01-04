@@ -38,8 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    39 mins         ████████████████████████░   95.71 %
-Scilab   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
