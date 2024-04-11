@@ -38,9 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 25 mins    ███████████████████████▓░   94.29 %
-Python       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript        5 hrs 38 mins   ████████████████████▓░░░░   82.25 %
+Groovy            36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+JSON              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+JavaScript        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Java Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
