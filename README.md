@@ -38,8 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 min           █████████████████████████   99.67 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
