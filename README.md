@@ -12,6 +12,7 @@
 
 
 ### What i made
+- [근무표 Viewr](https://github.com/YeonSeong-Lee/bluebird_workshift_viewer)
 - [42서울 도서관: 대출,반납,예약 책관리 시스템](https://42library.kr/)
 - [교육 커뮤니티 접속 앱](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)
 - [알고리즘 스터디 모임 관리 슬랙봇](https://github.com/helloAlgorithms/RedKiKi)
