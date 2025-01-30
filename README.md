@@ -18,13 +18,7 @@
 - [알고리즘 스터디 모임 관리 슬랙봇](https://github.com/helloAlgorithms/RedKiKi)
 - [42서울 benefits 사이트](https://benefit.42seoul.link/)
 - [42서울 공유우산 서비스](https://github.com/YeonSeong-Lee/OpenUmbrella)
-
-
-### What i analysis
-- [42서울 도서관 2022 2분기 보고서](https://rpubs.com/yeonseong/jiphyeonjeon_2022_2Q)
-- [42서울 도서관 2022 3분기 보고서](https://rpubs.com/yeonseong/jiphyeonjeon_2022_3Q)
-- [42서울 도서관 2022년 총 결산](https://rpubs.com/yeonseong/jiphyeonjeon_2022_total)
-
+- [tiny_render](https://github.com/YeonSeong-Lee/tiny_render)
 
 ### What i design
 - [404 에러페이지 디자인](https://yeonseong-lee.github.io/web_graphics/blob/main/404.html)
