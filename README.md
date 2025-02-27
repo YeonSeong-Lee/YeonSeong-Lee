@@ -1,6 +1,3 @@
-[![seongyle's 42 stats](https://badge.mediaplus.ma/greenbinary/seongyle?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjddus2)](https://solved.ac/dltjddus2)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonSeong-Lee)](https://github.com/anuraghazra/github-readme-stats)
