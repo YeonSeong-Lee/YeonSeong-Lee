@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                35 hrs 49 mins  ██████████████████████▓░░   90.39 %
-JavaScript                2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-WebGPU Shading Language   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Markdown                  8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other                     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript                30 hrs 45 mins  ██████████████████████▒░░   89.12 %
+JavaScript                2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+WebGPU Shading Language   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Markdown                  8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+HTML                      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
