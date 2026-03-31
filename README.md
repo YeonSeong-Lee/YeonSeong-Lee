@@ -1,9 +1,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjddus2)](https://solved.ac/dltjddus2)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonSeong-Lee)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonSeong-Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/2f42ecac-18b3-4aea-9e84-70d3d28d0008.svg)](https://wakatime.com/@2f42ecac-18b3-4aea-9e84-70d3d28d0008)
 
 
@@ -26,20 +23,8 @@
 
 ---
 
-#### This is my week coding record.
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
---- 
-
 ### me in media
+- [2024 이노베이션아카데미 성과 공유 컨퍼런스 (INNO-CON)](https://www.youtube.com/live/qcIf8i1QRio?t=2984s)
 - [2022 이노콘](https://platum.kr/archives/198709)
----
-### I'm interested in Data Visualization and 3D graphic.
-
 
 
