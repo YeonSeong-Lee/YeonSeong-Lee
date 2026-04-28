@@ -17,20 +17,13 @@
 - [tiny_render](https://github.com/YeonSeong-Lee/tiny_render)
 
 
-### presentation material
-- https://github.com/YeonSeong-Lee/presentation_material
-
-
-
-### What i design
-- [404 에러페이지 디자인](https://yeonseong-lee.github.io/web_graphics/blob/main/404.html)
-
-
 ### packages i made
  <a href="https://nodei.co/npm/az-generator/"><img src="https://nodei.co/npm/az-generator.png"></a>
  <a href="https://nodei.co/npm/korean-random-names-generator/"><img src="https://nodei.co/npm/korean-random-names-generator.png"></a>
 
 ---
+
+### [presentation material](https://github.com/YeonSeong-Lee/presentation_material)
 
 ### me in media
 - [2024 이노베이션아카데미 성과 공유 컨퍼런스 (INNO-CON)](https://www.youtube.com/live/qcIf8i1QRio?t=2984s)
