@@ -23,7 +23,8 @@
 
 ---
 
-### [presentation material](https://github.com/YeonSeong-Lee/presentation_material)
+### [발표자료 모음](https://github.com/YeonSeong-Lee/presentation_material)
+
 
 ### me in media
 - [2024 이노베이션아카데미 성과 공유 컨퍼런스 (INNO-CON)](https://www.youtube.com/live/qcIf8i1QRio?t=2984s)
