@@ -99,18 +99,21 @@
 <tr>
 <td>
 
-**[📚 집현전 Backend](https://github.com/jiphyeonjeon-42/backend)**
+**[📚 집현전](https://github.com/jiphyeonjeon-42/backend)**
+
+`Full-stack`
 
 </td>
 <td>
 
-42서울 공식 **도서관 대출·반납·예약 관리 시스템** 백엔드. **1,000명 이상**이 사용하는 서비스를 **8인 팀**으로 개발·운영하며, 사서/이용자 피드백을 직접 반영했습니다.
-<br/>🤝 **팀 협업** · 🔁 **실서비스 운영**
+42서울 공식 **도서관 대출·반납·예약 관리 시스템**. **1,000명 이상**이 사용하는 서비스를 **8인 팀**으로 프론트엔드·백엔드 **풀스택**으로 개발·운영하며, 사서/이용자 피드백을 직접 반영했습니다.
+<br/>🛠️ **풀스택 개발** · 🤝 **팀 협업** · 🔁 **실서비스 운영**
 
 </td>
 <td>
 
 ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
