@@ -19,7 +19,7 @@
   - 집현전: 1,000명 이상이 쓰는 42서울 도서관 시스템을 8인 팀에서 개발했습니다.
   - sseuregi-king, OpenUmbrella 등을 기획부터 배포까지 직접 진행했습니다.
   - Chrome Web Store에 편의성 확장 프로그램을 출시했습니다.
-- npm 패키지 2개를 배포했고, 컨퍼런스와 사내 특강에서 발표한 경험이 있습니다.
+- npm 패키지 3개를 배포했고, 컨퍼런스와 사내 특강에서 발표한 경험이 있습니다.
 - 컴퓨터 비전, LLM, 3D 그래픽스 같은 새 분야를 직접 만들어 보며 익히는 편입니다.
 - 새로 배운 내용은 정리해서 동료들과 나눕니다.
 
@@ -204,11 +204,14 @@
 
 #### npm Packages
 
-<a href="https://www.npmjs.com/package/az-generator"><img src="https://img.shields.io/npm/v/az-generator?style=flat-square&logo=npm&label=az-generator&color=CB3837" alt="az-generator" /></a>
-<a href="https://www.npmjs.com/package/az-generator"><img src="https://img.shields.io/npm/dt/az-generator?style=flat-square&label=downloads" alt="az-generator downloads" /></a>
-&nbsp;
-<a href="https://www.npmjs.com/package/korean-random-names-generator"><img src="https://img.shields.io/npm/v/korean-random-names-generator?style=flat-square&logo=npm&label=korean-random-names-generator&color=CB3837" alt="korean-random-names-generator" /></a>
-<a href="https://www.npmjs.com/package/korean-random-names-generator"><img src="https://img.shields.io/npm/dt/korean-random-names-generator?style=flat-square&label=downloads" alt="korean-random-names-generator downloads" /></a>
+- **[@yeonseong/magic-loading](https://www.npmjs.com/package/@yeonseong/magic-loading)** — 입력한 텍스트로 판타지 마법진 모양의 로딩 애니메이션을 만들어 주는 컴포넌트.
+  <a href="https://www.npmjs.com/package/@yeonseong/magic-loading"><img src="https://img.shields.io/npm/v/@yeonseong/magic-loading?style=flat-square&logo=npm&color=CB3837" alt="@yeonseong/magic-loading version" /></a>
+- **[az-generator](https://www.npmjs.com/package/az-generator)** — 아재개그를 생성해 주는 패키지.
+  <a href="https://www.npmjs.com/package/az-generator"><img src="https://img.shields.io/npm/v/az-generator?style=flat-square&logo=npm&color=CB3837" alt="az-generator version" /></a>
+  <a href="https://www.npmjs.com/package/az-generator"><img src="https://img.shields.io/npm/dt/az-generator?style=flat-square&label=downloads" alt="az-generator downloads" /></a>
+- **[korean-random-names-generator](https://www.npmjs.com/package/korean-random-names-generator)** — "똑똑한 호랑이"처럼 한국어 랜덤 닉네임을 만들어 주는 패키지.
+  <a href="https://www.npmjs.com/package/korean-random-names-generator"><img src="https://img.shields.io/npm/v/korean-random-names-generator?style=flat-square&logo=npm&color=CB3837" alt="korean-random-names-generator version" /></a>
+  <a href="https://www.npmjs.com/package/korean-random-names-generator"><img src="https://img.shields.io/npm/dt/korean-random-names-generator?style=flat-square&label=downloads" alt="korean-random-names-generator downloads" /></a>
 
 ---
 
