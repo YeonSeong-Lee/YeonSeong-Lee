@@ -21,6 +21,7 @@
   - 🌐 **sseuregi-king**, **OpenUmbrella** 등 직접 기획·개발·배포
   - 🧩 **Chrome Web Store**에 편의성 확장 프로그램 출시
 - 📦 npm 패키지 2종 배포, 🎤 컨퍼런스 발표 및 오픈소스 협업 경험.
+- 🗣️ **42 Seoul 카뎃특강** 등에서 배운 것을 꾸준히 정리·발표하는, **지식을 나누는 개발자**입니다.
 - 🧠 새로운 도메인(CV, LLM, 3D 그래픽스)을 빠르게 학습해 프로덕트에 녹입니다.
 
 ---
@@ -233,9 +234,20 @@
 
 ---
 
-## 🎤 Talks &amp; Media
+## 🎤 Talks &amp; Knowledge Sharing
 
-- 🎬 [발표자료 모음 (presentation_material)](https://github.com/YeonSeong-Lee/presentation_material)
+> 배운 것을 정리해 동료들과 나누는 것을 좋아합니다. **42 Seoul 카뎃특강**에서 진행한 발표 자료입니다.
+> 📂 전체 모음: **[presentation_material](https://github.com/YeonSeong-Lee/presentation_material)**
+
+| 발표 | 주제 |
+| --- | --- |
+| [🗃️ Raw Query → TypeORM 마이그레이션](https://github.com/YeonSeong-Lee/presentation_material/tree/main/migrate_raw_to_typeorm) | 실서비스의 Raw SQL을 TypeORM으로 점진적으로 전환한 경험 |
+| [🚨 에러 핸들링](https://github.com/YeonSeong-Lee/presentation_material/tree/main/error_handling) | 백엔드에서의 일관된 에러 처리 전략 |
+| [💾 DB 백업](https://github.com/YeonSeong-Lee/presentation_material/tree/main/db_backup) | 데이터베이스 백업 설계와 운영 |
+| [📈 역변환 샘플링 (Inverse CDF Method)](https://github.com/YeonSeong-Lee/presentation_material/tree/main/inverse_cdf_method) | 확률분포에서 표본을 추출하는 수학적 방법 |
+| [🎨 CSG &amp; HDR](https://github.com/YeonSeong-Lee/presentation_material/tree/main/csg_hdr) | 컴퓨터 그래픽스 — CSG와 HDR 렌더링 |
+
+#### 📺 Media
 - 🗣️ [2024 이노베이션아카데미 성과 공유 컨퍼런스 (INNO-CON)](https://www.youtube.com/live/qcIf8i1QRio?t=2984s)
 - 📰 [2022 이노콘 (platum 기사)](https://platum.kr/archives/198709)
 
