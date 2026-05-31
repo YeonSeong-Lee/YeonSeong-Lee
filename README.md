@@ -215,6 +215,67 @@
 
 ---
 
+## Open Source Contributions
+
+<table>
+<thead>
+<tr><th width="24%">Project</th><th>기여 내용</th><th width="14%">PR</th></tr>
+</thead>
+<tbody>
+
+<tr>
+<td rowspan="3">
+
+**[webgpufundamentals](https://github.com/webgpu/webgpufundamentals)**
+
+[`WebGPU 공식 학습 자료`](https://webgpufundamentals.org)
+
+</td>
+<td>한국어 README 추가 — 프로젝트 문서의 한국어 번역본을 작성하고 언어 목록에 연결</td>
+<td>
+
+[#285](https://github.com/webgpu/webgpufundamentals/pull/285) `merged`
+
+</td>
+</tr>
+<tr>
+<td>멀티샘플링 문서의 어색한 한국어 표현·오타 수정 및 기술 용어 통일</td>
+<td>
+
+[#208](https://github.com/webgpu/webgpufundamentals/pull/208) `merged`
+
+</td>
+</tr>
+<tr>
+<td>WebGPU 멀티샘플링 아티클 한국어 번역 추가</td>
+<td>
+
+[#207](https://github.com/webgpu/webgpufundamentals/pull/207) `merged`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**[playcanvas/editor](https://github.com/playcanvas/editor)**
+
+`PlayCanvas 3D 에디터`
+
+</td>
+<td>텍스처 인스펙터의 Mipmaps 필드에 attribute reference를 추가해 툴팁 문서가 노출되도록 수정</td>
+<td>
+
+[#1694](https://github.com/playcanvas/editor/pull/1694) `merged`
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
