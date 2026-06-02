@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=YeonSeong%20Lee&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=22" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Frontend+%26+Full-stack+Engineer;42+Seoul;Build+%C2%B7+Ship+%C2%B7+Operate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Frontend+Engineer+%C2%B7+%EC%9A%B4%EC%98%81+%EC%9E%90%EB%8F%99%ED%99%94;42+Seoul+%C2%B7+8%EC%9D%B8+%ED%8C%80+%E2%86%92+1%2C000%2B+%EC%82%AC%EC%9A%A9%EC%9E%90;AI+Workflow+with+Claude+Code;Build+%C2%B7+Ship+%C2%B7+Operate)](https://git.io/typing-svg)
 
 <a href="https://github.com/YeonSeong-Lee"><img src="https://komarev.com/ghpvc/?username=YeonSeong-Lee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
 <a href="https://github.com/YeonSeong-Lee?tab=followers"><img src="https://img.shields.io/github/followers/YeonSeong-Lee?label=Followers&style=social" alt="followers" /></a>
@@ -13,15 +13,12 @@
 
 ## About Me
 
-42 Seoul에서 프론트엔드와 백엔드를 함께 다루는 소프트웨어 엔지니어입니다.
+운영 도구와 자동화 시스템을 만드는 프론트엔드 엔지니어입니다. 사용자가 매일 반복하던 작업을 시스템으로 옮기고, 직접 만든 제품을 배포·운영하면서 피드백으로 다시 다듬는 흐름을 좋아합니다.
 
-- 직접 만든 서비스를 배포하고 운영하면서 사용자 피드백을 반영하는 일에 관심이 많습니다.
-  - 집현전: 1,000명 이상이 쓰는 42서울 도서관 시스템을 8인 팀에서 개발했습니다.
-  - sseuregi-king, OpenUmbrella 등을 기획부터 배포까지 직접 진행했습니다.
-  - Chrome Web Store에 편의성 확장 프로그램을 출시했습니다.
-- npm 패키지 3개를 배포했고, 컨퍼런스와 사내 특강에서 발표한 경험이 있습니다.
-- 컴퓨터 비전, LLM, 3D 그래픽스 같은 새 분야를 직접 만들어 보며 익히는 편입니다.
-- 새로 배운 내용은 정리해서 동료들과 나눕니다.
+- **운영 자동화 · 내부 도구**: 집현전 도서관에서 무인 대출/반납 시스템을 구축해 운영 시간을 6시간 → 24시간으로 확장 (주당 대출 30 → 50권, +67%). 사회복지시설 근무자들이 수기로 확인하던 근무표를 데스크톱 뷰어로 자동화 (32명 사용, 1년 6개월째 운영). 코디세이 평가 신청 자동화 Chrome 확장 (Chrome Web Store 배포).
+- **AI 워크플로우 설계**: Claude Code + SuperClaude + Serena를 팀에 도입해 PR 전 코드 영향도 분석·리뷰를 표준화. 코드베이스 고유의 안티패턴을 규칙 문서로 정리해 팀과 공유, 동일 유형 오류 재발 차단.
+- **풀스택 협업**: 1,000+ 사용자가 쓰는 집현전을 8인 팀에서 프론트·백엔드 모두 맡아 2년간 개발·운영. Raw Query → TypeORM 전환, ErrorHandler 미들웨어 도입 같은 안정성 개선 작업을 컨퍼런스·사내 특강에서 공유.
+- **새 분야 학습 · 지식 공유**: 컴퓨터 비전, LLM, 3D 그래픽스를 직접 만들어 보며 익히고, npm 패키지 3개·발표 자료로 정리해 동료들과 나눕니다.
 
 ---
 
@@ -58,8 +55,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -81,8 +76,8 @@
 </td>
 <td>
 
-외국인을 위한 쓰레기 분리배출 안내 서비스. 카메라로 쓰레기를 찍으면 Claude Vision이 품목을 인식하고, Kakao Local API로 동네별 배출 규칙(봉투 색, 배출 요일, 장소)을 알려줍니다.
-<br/>다국어 4개국어 지원, Vercel 배포 운영 중
+외국인을 위한 쓰레기 분리배출 안내 서비스. 카메라로 쓰레기를 찍으면 Claude Vision이 품목을 인식하고, Kakao Local API로 동네별 배출 규칙(봉투 색, 배출 요일, 장소)을 알려줍니다. **Vibe Coding HACKATHON 본선 12팀 중 전체 1위(대상)** — 4시간 단독 개발.
+<br/>다국어 4개국어 · 해커톤 대상 · Vercel 운영 중
 
 </td>
 <td>
@@ -106,8 +101,8 @@
 </td>
 <td>
 
-42서울 공식 도서관 대출·반납·예약 시스템. 1,000명 이상이 사용하는 서비스를 8인 팀에서 프론트엔드와 백엔드를 맡아 개발하고 운영했습니다. 사서와 이용자 피드백을 반영해 꾸준히 개선했습니다.
-<br/>풀스택 · 팀 협업 · 실서비스 운영
+42서울 공식 도서관 대출·반납·예약 시스템. 8인 팀에서 프론트엔드와 백엔드를 맡아 1,000+ 사용자에게 2년간 서비스했습니다. 사서 근무 시간(10–16시)에 묶여 있던 운영을 에어테이블+QR+42 OAuth 기반 무인 시스템으로 24시간으로 확장 (주당 대출 30 → 50권, +67%). 사서와 이용자 피드백을 반영해 꾸준히 개선했습니다.
+<br/>풀스택 · 운영 자동화 · 실서비스 2년
 
 </td>
 <td>
@@ -133,8 +128,8 @@
 </td>
 <td>
 
-42서울 캠퍼스 공유우산 서비스. 우산 대여·반납과 사용자 인증을 갖춘 웹 서비스로, 가장 많은 스타를 받은 프로젝트입니다.
-<br/>협업 개발 · 캠퍼스 실사용
+42서울 캠퍼스 공유우산 서비스. 우산 분실 문제를 직접 발견해 이노베이션 아카데미에 제안하여 100만원 상당 우산 후원을 유치하고, QR 기반 무인 대출/반납으로 자동화. 2년 운영 동안 누적 대출 1,656건.
+<br/>자기주도 발굴 · 운영 자동화 · 2년 운영
 
 </td>
 <td>
@@ -156,8 +151,8 @@
 </td>
 <td>
 
-코디세이 평가 신청을 편하게 해주는 크롬 확장 프로그램. 드래그로 여러 시간대를 한 번에 신청하고, 목차 자동 숨김과 평가 후 자동 새로고침을 지원합니다.
-<br/>Chrome Web Store 등록
+코디세이 평가 신청을 자동화하는 크롬 확장. 드래그로 여러 시간대를 한 번에 신청하고, 목차 자동 숨김과 평가 후 자동 새로고침을 지원해 반복 작업을 제거합니다.
+<br/>Chrome Web Store 배포 · 작업 자동화
 
 </td>
 <td>
@@ -176,8 +171,8 @@
 </td>
 <td>
 
-사회복지시설 근무표를 보기 위한 데스크톱 앱. 엑셀 근무표를 읽어 날짜와 팀별로 보여주고, Google Drive와 자동으로 동기화합니다. (릴리스 12개)
-<br/>데스크톱 앱 · 엑셀 연동
+사회복지시설 근무자들이 매번 출력해 확인하던 근무표를 데스크톱 뷰어로 자동화. 엑셀 파일을 파싱해 날짜·팀별로 시각화하고 Google Drive와 자동 동기화. 시설 32명에 배포해 1년 6개월째 운영 중. (릴리스 12개)
+<br/>데스크톱 앱 · 운영 자동화 · 실사용 중
 
 </td>
 <td>
@@ -193,7 +188,7 @@
 
 ---
 
-## Side Projects &amp; Packages
+## Side Projects & Packages
 
 - **[RallyLens](https://github.com/YeonSeong-Lee/rallylens)** — 배드민턴 경기 영상을 자동으로 분석하는 CLI 파이프라인. `Python` `YOLO11-pose` `ByteTrack` `TrackNetV3` `Kalman` `OpenCV` `PyTorch` `LLM`
 - **[web_cube3d](https://github.com/YeonSeong-Lee/web_cube3d)** — 웹에서 돌아가는 3D 큐브 시각화. `Svelte`
@@ -299,7 +294,7 @@
 
 ---
 
-## Talks &amp; Knowledge Sharing
+## Talks & Knowledge Sharing
 
 42 Seoul 카뎃특강에서 진행한 발표 자료입니다. 전체 모음은 [presentation_material](https://github.com/YeonSeong-Lee/presentation_material) 에 있습니다.
 
