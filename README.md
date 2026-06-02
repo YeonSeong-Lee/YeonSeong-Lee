@@ -257,14 +257,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YeonSeong-Lee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeonSeong-Lee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YeonSeong-Lee&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YeonSeong-Lee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
 </div>
+
 
 ---
 
