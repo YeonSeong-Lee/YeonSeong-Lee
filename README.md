@@ -57,7 +57,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-
 ## Featured Projects
 
 <table>
@@ -69,39 +68,14 @@
 <tr>
 <td>
 
-**[sseuregi-king](https://github.com/YeonSeong-Lee/sseuregi-king)**
+**[집현전](https://github.com/jiphyeonjeon-42/frontend)**
 
-[`Live Demo`](https://sseuregi-king.vercel.app)
-
-</td>
-<td>
-
-외국인을 위한 쓰레기 분리배출 안내 서비스. 카메라로 쓰레기를 찍으면 Claude Vision이 품목을 인식하고, Kakao Local API로 동네별 배출 규칙(봉투 색, 배출 요일, 장소)을 알려줍니다. **Vibe Coding HACKATHON 본선 12팀 중 전체 1위(대상)** — 4시간 단독 개발.
-<br/>다국어 4개국어 · 해커톤 대상 · Vercel 운영 중
+`Full-stack` · `2023–2025`
 
 </td>
 <td>
 
-![Next.js](https://img.shields.io/badge/-Next.js%2016-000?logo=nextdotjs&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React%2019-61DAFB?logo=react&logoColor=black&style=flat-square)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-Tailwind%204-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![Claude](https://img.shields.io/badge/-Claude%20Vision-D97757?logo=anthropic&logoColor=white&style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**[집현전](https://github.com/jiphyeonjeon-42/backend)**
-
-`Full-stack`
-
-</td>
-<td>
-
-42서울 공식 도서관 대출·반납·예약 시스템. 8인 팀에서 프론트엔드와 백엔드를 맡아 1,000+ 사용자에게 2년간 서비스했습니다. 사서 근무 시간(10–16시)에 묶여 있던 운영을 에어테이블+QR+42 OAuth 기반 무인 시스템으로 24시간으로 확장 (주당 대출 30 → 50권, +67%). 사서와 이용자 피드백을 반영해 꾸준히 개선했습니다.
+42서울 공식 도서관 대출·반납·예약 시스템. 8인 팀(FE 3 / BE 5)에서 백엔드(2023–2024)와 프론트엔드(2024–2025)를 순차적으로 맡아 1,000+ 사용자에게 2년간 서비스했습니다. 사서 근무 시간(10–16시)에 묶여 있던 운영을 QR + 42 OAuth 기반 무인 시스템으로 24시간으로 확장 (주당 대출 30 → 50권, +67%). 사서와 이용자 피드백을 반영해 꾸준히 개선했습니다.
 <br/>풀스택 · 운영 자동화 · 실서비스 2년
 
 </td>
@@ -121,57 +95,14 @@
 <tr>
 <td>
 
-**[OpenUmbrella](https://github.com/YeonSeong-Lee/OpenUmbrella)**
+**[파랑새둥지 근무표 뷰어](https://github.com/YeonSeong-Lee/bluebird_workshift_viewer)**
 
-[![stars](https://img.shields.io/github/stars/YeonSeong-Lee/OpenUmbrella?style=flat-square&label=stars)](https://github.com/YeonSeong-Lee/OpenUmbrella/stargazers)
-
-</td>
-<td>
-
-42서울 캠퍼스 공유우산 서비스. 우산 분실 문제를 직접 발견해 이노베이션 아카데미에 제안하여 100만원 상당 우산 후원을 유치하고, QR 기반 무인 대출/반납으로 자동화. 2년 운영 동안 누적 대출 1,656건.
-<br/>자기주도 발굴 · 운영 자동화 · 2년 운영
+`Solo` · `2024.10–현재`
 
 </td>
 <td>
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**[codyssey_improved](https://github.com/YeonSeong-Lee/codyssey_improved)**
-
-`Chrome Web Store`
-
-</td>
-<td>
-
-코디세이 평가 신청을 자동화하는 크롬 확장. 드래그로 여러 시간대를 한 번에 신청하고, 목차 자동 숨김과 평가 후 자동 새로고침을 지원해 반복 작업을 제거합니다.
-<br/>Chrome Web Store 배포 · 작업 자동화
-
-</td>
-<td>
-
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Chrome](https://img.shields.io/badge/-Chrome%20Extension-4285F4?logo=googlechrome&logoColor=white&style=flat-square)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**[bluebird_workshift_viewer](https://github.com/YeonSeong-Lee/bluebird_workshift_viewer)**
-
-</td>
-<td>
-
-사회복지시설 근무자들이 매번 출력해 확인하던 근무표를 데스크톱 뷰어로 자동화. 엑셀 파일을 파싱해 날짜·팀별로 시각화하고 Google Drive와 자동 동기화. 시설 32명에 배포해 1년 6개월째 운영 중. (릴리스 12개)
+사회복지시설 근무자들이 매번 출력해 확인하던 근무표를 데스크톱 뷰어로 자동화. chokidar로 엑셀 파일 변경을 감지해 Google Drive와 30분 주기로 자동 동기화하고, electron-updater 기반 무인 자동 업데이트로 32대 PC를 운영합니다. 시설 직원 32명에 배포해 약 1년 6개월째 운영 중 (릴리스 12개).
 <br/>데스크톱 앱 · 운영 자동화 · 실사용 중
 
 </td>
@@ -179,6 +110,58 @@
 
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat-square)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![GDrive](https://img.shields.io/badge/-Google%20Drive%20API-4285F4?logo=googledrive&logoColor=white&style=flat-square)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**[쓰레기 킹](https://github.com/YeonSeong-Lee/sseuregi-king)**
+
+[`Live Demo`](https://sseuregi-king.vercel.app) · `해커톤 대상`
+
+</td>
+<td>
+
+외국인을 위한 쓰레기 분리배출 안내 서비스. 객체 인식과 안내문 생성을 2단계 Claude API 호출 파이프라인으로 분리해 단계별 검증이 가능한 구조로 설계했습니다. 지역별 배출 규칙은 geocode와 매핑해 데이터 추가만으로 지역 확장 가능. next-intl 기반 4개 국어(EN · 中 · 日 · RU) 지원. **Vibe Coding HACKATHON 본선 12팀 중 전체 1위(대상)** — 4시간 단독 개발.
+<br/>다국어 4개국어 · 해커톤 대상
+
+</td>
+<td>
+
+![Next.js](https://img.shields.io/badge/-Next.js%2016-000?logo=nextdotjs&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React%2019-61DAFB?logo=react&logoColor=black&style=flat-square)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Tailwind](https://img.shields.io/badge/-Tailwind%204-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Claude](https://img.shields.io/badge/-Claude%20API-D97757?logo=anthropic&logoColor=white&style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**[OpenUmbrella](https://github.com/YeonSeong-Lee/OpenUmbrella)**
+
+`자기주도 발굴` · `2년 운영`
+
+[![stars](https://img.shields.io/github/stars/YeonSeong-Lee/OpenUmbrella?style=flat-square&label=stars)](https://github.com/YeonSeong-Lee/OpenUmbrella/stargazers)
+
+</td>
+<td>
+
+42서울 캠퍼스 공유우산 서비스. 우산 분실 문제를 직접 발견해 이노베이션 아카데미 재단에 제안하여 100만원 상당의 우산 후원을 유치하고, Angular + FastAPI로 QR 기반 무인 대출/반납 시스템을 구축·운영했습니다. 2년 운영 동안 누적 대출 1,656건.
+<br/>자기주도 발굴 · 운영 자동화 · 2년 운영
+
+</td>
+<td>
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 
 </td>
 </tr>
