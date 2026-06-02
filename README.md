@@ -173,7 +173,7 @@
 
 ## Side Projects & Packages
 
-- **[42 Benefit](https://github.com/42Benefit/benefit) - 42서울 교육생들 혜택을 모아놓은 사이트
+- **[42 Benefit](https://github.com/42Benefit/benefit)** - 42서울 교육생들 혜택을 모아놓은 사이트
 - **[RallyLens](https://github.com/YeonSeong-Lee/rallylens)** — 배드민턴 경기 영상을 자동으로 분석하는 CLI 파이프라인. `Python` `YOLO11-pose` `ByteTrack` `TrackNetV3` `Kalman` `OpenCV` `PyTorch` `LLM`
 - **[tiny_render](https://github.com/YeonSeong-Lee/tiny_render)** — GPU 없이 만든 소프트웨어 3D 렌더러. `C++17` `CMake`
 - **[HufsLifeAcademy_app](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)** — 교육 커뮤니티 접속 안드로이드 앱. `Java` `Android`
