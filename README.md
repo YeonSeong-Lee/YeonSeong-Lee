@@ -173,12 +173,11 @@
 
 ## Side Projects & Packages
 
+- **[42 Benefit](https://github.com/42Benefit/benefit) - 42서울 교육생들 혜택을 모아놓은 사이트
 - **[RallyLens](https://github.com/YeonSeong-Lee/rallylens)** — 배드민턴 경기 영상을 자동으로 분석하는 CLI 파이프라인. `Python` `YOLO11-pose` `ByteTrack` `TrackNetV3` `Kalman` `OpenCV` `PyTorch` `LLM`
-- **[web_cube3d](https://github.com/YeonSeong-Lee/web_cube3d)** — 웹에서 돌아가는 3D 큐브 시각화. `Svelte`
 - **[tiny_render](https://github.com/YeonSeong-Lee/tiny_render)** — GPU 없이 만든 소프트웨어 3D 렌더러. `C++17` `CMake`
 - **[HufsLifeAcademy_app](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)** — 교육 커뮤니티 접속 안드로이드 앱. `Java` `Android`
 - **[RedKiKi](https://github.com/helloAlgorithms/RedKiKi)** — 매일 알고리즘 문제를 보내주는 스터디 관리 슬랙봇. `Python` `GitHub Actions`
-- **[easy-prompt](https://github.com/YeonSeong-Lee/easy-prompt)** — 자주 쓰는 프롬프트를 빠르게 꺼내 쓰는 크롬 확장. `JavaScript`
 
 #### npm Packages
 
@@ -279,7 +278,7 @@
 
 ## Talks & Knowledge Sharing
 
-42 Seoul 카뎃특강에서 진행한 발표 자료입니다. 전체 모음은 [presentation_material](https://github.com/YeonSeong-Lee/presentation_material) 에 있습니다.
+지식공유한 내용들입니다.
 
 | 발표 | 주제 |
 | --- | --- |
