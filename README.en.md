@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=YeonSeong%20Lee&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=22" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Full-Stack+Product+Engineer;42+Seoul+%C2%B7+8%EC%9D%B8+%ED%8C%80+%E2%86%92+1%2C000%2B+%EC%82%AC%EC%9A%A9%EC%9E%90;AI+Workflow+with+Claude+Code;Build+%C2%B7+Ship+%C2%B7+Operate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Full-Stack+Product+Engineer;42+Seoul+%C2%B7+8-person+team+%E2%86%92+1%2C000%2B+users;AI+Workflow+with+Claude+Code;Build+%C2%B7+Ship+%C2%B7+Operate)](https://git.io/typing-svg)
 
 <a href="https://github.com/YeonSeong-Lee"><img src="https://komarev.com/ghpvc/?username=YeonSeong-Lee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
 <a href="https://github.com/YeonSeong-Lee?tab=followers"><img src="https://img.shields.io/github/followers/YeonSeong-Lee?label=Followers&style=social" alt="followers" /></a>
 
-**한국어** · [English](./README.en.md)
+[한국어](./README.md) · **English**
 
 </div>
 
@@ -15,12 +15,12 @@
 
 ## About Me
 
-운영 도구와 AI 제품을 만드는 풀스택 엔지니어입니다. 사용자가 매일 반복하던 작업을 시스템으로 옮기고, 직접 만든 제품을 배포·운영하면서 피드백으로 다시 다듬는 흐름을 좋아합니다.
+Full-stack engineer building operational tools and AI products. I like taking work people repeat every day and turning it into a system — then shipping it, running it, and refining it with real feedback.
 
-- **AI 제품 설계 — Solar Canvas**: 계약서 필드를 추출하는 AI 워크플로우 에디터를 스펙 우선으로 설계·구현했습니다. 조정 가능한 신뢰도 슬라이더 + 산술 규칙 기반 검토 회부(Human-in-the-loop), 실행 모니터링 대시보드, Yjs 실시간 협업까지 갖췄고, 예비 평가(N=20 합성 계약서, 실 API)에서 문서 오류 검출 7/7을 확인했습니다. 비공개 저장소 — 상세는 요청 시 공유합니다.
-- **AI 도구로 개발 효율화**: Claude Code + SuperClaude + Serena를 팀에 도입해 PR 전 코드 영향도 분석·리뷰를 표준화했습니다. 코드베이스 고유 안티패턴을 규칙 문서로 정리해 팀과 공유, 동일 유형 오류 재발을 막았습니다.
-- **운영 자동화 · 내부 도구**: 집현전 도서관에서 무인 대출/반납 시스템을 구축해 운영 시간을 6시간 → 24시간으로 확장(주당 대출 30 → 50권, +67%). 사회복지시설 근무자들이 수기로 확인하던 근무표를 데스크톱 뷰어로 자동화. 코디세이 평가 신청 자동화 Chrome 확장(Chrome Web Store 배포).
-- **풀스택 협업**: 1,000+ 사용자가 쓰는 집현전을 8인 팀에서 백엔드(2023–2024)·프론트엔드(2024–2025)로 순차 담당하며 2년간 개발·운영했습니다. Raw Query → TypeORM 전환, ErrorHandler 미들웨어 도입 같은 안정성 개선 작업을 컨퍼런스·사내 특강에서 공유했습니다.
+- **AI product design — Solar Canvas**: Designed and built a spec-first AI workflow editor that extracts fields from contracts. It ships an adjustable confidence slider, arithmetic-rule-based review referral (human-in-the-loop) that runs independent of the model's score, an execution-monitoring dashboard, and real-time collaboration via Yjs. A preliminary evaluation (N=20 synthetic contracts, live API) caught 7 of 7 injected document errors. Private repository — happy to share details on request.
+- **10x with AI tooling**: Introduced Claude Code + SuperClaude + Serena to my team to standardize pre-PR code-impact analysis and review. Documented codebase-specific anti-patterns as shared rules, cutting off repeat occurrences of the same class of bug.
+- **Operations automation / internal tools**: Built an unattended checkout/return system for the Jiphyeonjeon library, extending operating hours from 6 to 24 (weekly checkouts up 30 → 50, +67%). Automated a paper work-schedule that social-welfare-facility staff used to check by printout into a desktop viewer. Shipped a Chrome extension automating an evaluation-application workflow (published on the Chrome Web Store).
+- **Full-stack collaboration**: Developed and operated Jiphyeonjeon, used by 1,000+ people, on an 8-person team — backend (2023–2024) then frontend (2024–2025) in sequence, over two years. Shared stability work such as a raw-query-to-TypeORM migration and an error-handling middleware rollout at conferences and internal talks.
 
 ---
 
@@ -63,7 +63,7 @@
 
 <table>
 <thead>
-<tr><th width="22%">Project</th><th>설명</th><th width="28%">Tech</th></tr>
+<tr><th width="22%">Project</th><th>Description</th><th width="28%">Tech</th></tr>
 </thead>
 <tbody>
 
@@ -72,13 +72,13 @@
 
 **Solar Canvas**
 
-`Solo` · `비공개 저장소`
+`Solo` · `Private repository`
 
 </td>
 <td>
 
-계약서에서 당사자·기간·금액·조항을 추출하는 AI 워크플로우 에디터. 노드 기반 캔버스로 추출 파이프라인을 구성하고, 조정 가능한 신뢰도 슬라이더와 산술 규칙(단가×수량=총액 · 부가세 10% · 사업자번호 체크섬) 기반 검토 회부로 점수 뒤에 숨은 오답을 잡습니다. 실행 모니터링 대시보드와 Yjs 실시간 협업을 포함합니다. 예비 평가(N=20 합성 계약서, 실 API): 문서 오류 검출 7/7, 그중 11개 필드는 자동 플래그가 통과시킨 값이었습니다.
-<br/>AI 워크플로우 · 스펙 우선 설계 · 비공개(요청 시 공유)
+An AI workflow editor that extracts parties, dates, amounts, and clauses from contracts. Extraction pipelines are composed on a node-based canvas; an adjustable confidence slider plus arithmetic-rule-based referral (unit price × quantity = total, 10% VAT, business-registration-number checksum) catches wrong answers hiding behind a passing score. Includes an execution-monitoring dashboard and real-time collaboration via Yjs. Preliminary evaluation (N=20 synthetic contracts, live API): 7 of 7 document errors detected, 11 of the implicated fields carried a passing automatic flag.
+<br/>AI workflow · spec-first design · private (shared on request)
 
 </td>
 <td>
@@ -96,15 +96,15 @@
 <tr>
 <td>
 
-**[집현전](https://github.com/jiphyeonjeon-42/frontend)**
+**[Jiphyeonjeon](https://github.com/jiphyeonjeon-42/frontend)**
 
 `Full-stack` · `2023–2025`
 
 </td>
 <td>
 
-42서울 공식 도서관 대출·반납·예약 시스템. 8인 팀(FE 3 / BE 5)에서 백엔드(2023–2024)와 프론트엔드(2024–2025)를 순차적으로 맡아 1,000+ 사용자에게 2년간 서비스했습니다. 사서 근무 시간(10–16시)에 묶여 있던 운영을 QR + 42 OAuth 기반 무인 시스템으로 24시간으로 확장 (주당 대출 30 → 50권, +67%). 사서와 이용자 피드백을 반영해 꾸준히 개선했습니다.
-<br/>풀스택 · 운영 자동화 · 실서비스 2년
+42 Seoul's official library checkout/return/reservation system. On an 8-person team (3 FE / 5 BE), I owned backend (2023–2024) then frontend (2024–2025) in sequence, serving 1,000+ users over two years. Replaced hours tied to librarian staffing (10am–4pm) with a QR + 42 OAuth unattended system running 24 hours (weekly checkouts up 30 → 50, +67%). Iterated continuously on librarian and patron feedback.
+<br/>Full-stack · operations automation · 2 years in production
 
 </td>
 <td>
@@ -132,8 +132,8 @@
 </td>
 <td>
 
-배드민턴 경기 영상을 자동으로 분석하는 CLI 파이프라인. YOLO11-pose로 선수 자세를 추정하고 ByteTrack으로 다중 객체를 추적, TrackNetV3로 셔틀콕 궤적을 검출한 뒤 Kalman 필터로 노이즈를 보정합니다. 분석 결과를 LLM으로 요약해 랠리 단위 리포트를 생성합니다.
-<br/>AI/ML 파이프라인 · 궤적 분석
+A CLI pipeline that automatically analyzes badminton match footage. YOLO11-pose estimates player poses, ByteTrack tracks multiple objects, TrackNetV3 detects shuttlecock trajectory, and a Kalman filter smooths the noise. An LLM summarizes the results into a rally-by-rally report.
+<br/>AI/ML pipeline · trajectory analysis
 
 </td>
 <td>
@@ -149,15 +149,15 @@
 <tr>
 <td>
 
-**[쓰레기 킹](https://github.com/YeonSeong-Lee/sseuregi-king)**
+**[Sseuregi King](https://github.com/YeonSeong-Lee/sseuregi-king)**
 
-[`Live Demo`](https://sseuregi-king.vercel.app) · `해커톤 대상`
+[`Live Demo`](https://sseuregi-king.vercel.app) · `Hackathon winner`
 
 </td>
 <td>
 
-외국인을 위한 쓰레기 분리배출 안내 서비스. Next.js 16 풀스택으로 설계해 Vercel에 배포했고, 객체 인식과 안내문 생성을 2단계 Claude API 파이프라인으로 분리해 단계별 검증이 가능한 구조로 만들었습니다. 지역별 배출 규칙은 geocode와 매핑해 데이터 추가만으로 지역 확장이 가능하고, next-intl 기반 4개 국어(EN·中·日·RU)를 지원합니다. **Vibe Coding HACKATHON 본선 12팀 중 전체 1위(대상)** — 4시간 단독 개발.
-<br/>Next.js 풀스택 배포 · 다국어 4개국어 · 해커톤 대상
+A waste-sorting guide for foreign residents. Built full-stack on Next.js 16 and deployed to Vercel; splits object recognition and instruction generation into a two-stage Claude API pipeline so each stage can be verified independently. Region-specific disposal rules are mapped by geocode, so coverage extends by adding data alone; supports four languages (EN, 中, 日, RU) via next-intl. **1st place (grand prize) among 12 finalist teams at the Vibe Coding Hackathon** — built solo in 4 hours.
+<br/>Next.js full-stack deploy · 4 languages · hackathon winner
 
 </td>
 <td>
@@ -176,15 +176,15 @@
 
 **[OpenUmbrella](https://github.com/YeonSeong-Lee/OpenUmbrella)**
 
-`자기주도 발굴` · `2년 운영`
+`Self-initiated` · `2 years in production`
 
 [![stars](https://img.shields.io/github/stars/YeonSeong-Lee/OpenUmbrella?style=flat-square&label=stars)](https://github.com/YeonSeong-Lee/OpenUmbrella/stargazers)
 
 </td>
 <td>
 
-42서울 캠퍼스 공유우산 서비스. 우산 분실 문제를 직접 발견해 이노베이션 아카데미 재단에 제안하여 100만원 상당의 우산 후원을 유치하고, Angular + FastAPI로 QR 기반 무인 대출/반납 시스템을 구축·운영했습니다. 2년 운영 동안 누적 대출 1,656건.
-<br/>자기주도 발굴 · 운영 자동화 · 2년 운영
+A shared-umbrella service for the 42 Seoul campus. I identified the problem of lost umbrellas myself, pitched it to the Innovation Academy foundation, secured about ₩1M worth of umbrella sponsorship, and built and operated a QR-based unattended checkout/return system on Angular + FastAPI. 1,656 cumulative checkouts over two years of operation.
+<br/>Self-initiated · operations automation · 2 years in production
 
 </td>
 <td>
@@ -203,21 +203,21 @@
 
 ## Side Projects & Packages
 
-- **[42 Benefit](https://github.com/42Benefit/benefit)** - 42서울 교육생들 혜택을 모아놓은 사이트
-- **[seonbi-talk](https://github.com/YeonSeong-Lee/seonbi-talk)** — 격식 있는 상대와의 카카오톡 답변을 존댓말+설득 원칙으로 추천하는 MCP 서버. `Python`
-- **[파랑새둥지 근무표 뷰어](https://github.com/YeonSeong-Lee/bluebird_workshift_viewer)** — 사회복지시설 근무자들이 매번 출력해 확인하던 근무표를 데스크톱 뷰어로 자동화. chokidar로 엑셀 파일 변경을 감지해 Google Drive와 자동 동기화. 2024.10–12 개발, 시설 직원 32명에게 배포(릴리스 12개). `Electron` `JavaScript`
-- **[tiny_render](https://github.com/YeonSeong-Lee/tiny_render)** — GPU 없이 만든 소프트웨어 3D 렌더러. `C++17` `CMake`
-- **[HufsLifeAcademy_app](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)** — 교육 커뮤니티 접속 안드로이드 앱. `Java` `Android`
-- **[RedKiKi](https://github.com/helloAlgorithms/RedKiKi)** — 매일 알고리즘 문제를 보내주는 스터디 관리 슬랙봇. `Python` `GitHub Actions`
+- **[42 Benefit](https://github.com/42Benefit/benefit)** — a site collecting benefits available to 42 Seoul students
+- **[seonbi-talk](https://github.com/YeonSeong-Lee/seonbi-talk)** — an MCP server that suggests formal, persuasive KakaoTalk replies for conversations with superiors. `Python`
+- **[Bluebird Workshift Viewer](https://github.com/YeonSeong-Lee/bluebird_workshift_viewer)** — automated a paper work-schedule that social-welfare-facility staff used to print and check into a desktop viewer, with chokidar detecting Excel changes and auto-syncing to Google Drive. Built Oct–Dec 2024 and deployed to 32 facility staff (12 releases). `Electron` `JavaScript`
+- **[tiny_render](https://github.com/YeonSeong-Lee/tiny_render)** — a software 3D renderer with no GPU dependency. `C++17` `CMake`
+- **[HufsLifeAcademy_app](https://github.com/YeonSeong-Lee/HufsLifeAcademy_app)** — an Android app for an education community. `Java` `Android`
+- **[RedKiKi](https://github.com/helloAlgorithms/RedKiKi)** — a Slack bot that manages a daily algorithm-practice study group. `Python` `GitHub Actions`
 
 #### npm Packages
 
-- **[@yeonseong/magic-loading](https://www.npmjs.com/package/@yeonseong/magic-loading)** — 입력한 텍스트로 판타지 마법진 모양의 로딩 애니메이션을 만들어 주는 컴포넌트.
+- **[@yeonseong/magic-loading](https://www.npmjs.com/package/@yeonseong/magic-loading)** — a loading animation shaped like a fantasy magic circle, generated from input text.
   <a href="https://www.npmjs.com/package/@yeonseong/magic-loading"><img src="https://img.shields.io/npm/v/@yeonseong/magic-loading?style=flat-square&logo=npm&color=CB3837" alt="@yeonseong/magic-loading version" /></a>
-- **[az-generator](https://www.npmjs.com/package/az-generator)** — 아재개그를 생성해 주는 패키지.
+- **[az-generator](https://www.npmjs.com/package/az-generator)** — generates Korean dad jokes.
   <a href="https://www.npmjs.com/package/az-generator"><img src="https://img.shields.io/npm/v/az-generator?style=flat-square&logo=npm&color=CB3837" alt="az-generator version" /></a>
   <a href="https://www.npmjs.com/package/az-generator"><img src="https://img.shields.io/npm/dt/az-generator?style=flat-square&label=downloads" alt="az-generator downloads" /></a>
-- **[korean-random-names-generator](https://www.npmjs.com/package/korean-random-names-generator)** — "똑똑한 호랑이"처럼 한국어 랜덤 닉네임을 만들어 주는 패키지.
+- **[korean-random-names-generator](https://www.npmjs.com/package/korean-random-names-generator)** — generates Korean random nicknames like "똑똑한 호랑이" (clever tiger).
   <a href="https://www.npmjs.com/package/korean-random-names-generator"><img src="https://img.shields.io/npm/v/korean-random-names-generator?style=flat-square&logo=npm&color=CB3837" alt="korean-random-names-generator version" /></a>
   <a href="https://www.npmjs.com/package/korean-random-names-generator"><img src="https://img.shields.io/npm/dt/korean-random-names-generator?style=flat-square&label=downloads" alt="korean-random-names-generator downloads" /></a>
 
@@ -227,7 +227,7 @@
 
 <table>
 <thead>
-<tr><th width="24%">Project</th><th>기여 내용</th><th width="14%">PR</th></tr>
+<tr><th width="24%">Project</th><th>Contribution</th><th width="14%">PR</th></tr>
 </thead>
 <tbody>
 
@@ -236,10 +236,10 @@
 
 **[webgpufundamentals](https://github.com/webgpu/webgpufundamentals)**
 
-[`WebGPU 공식 학습 자료`](https://webgpufundamentals.org)
+[`Official WebGPU learning resource`](https://webgpufundamentals.org)
 
 </td>
-<td>한국어 README 추가 — 프로젝트 문서의 한국어 번역본을 작성하고 언어 목록에 연결</td>
+<td>Added a Korean README — wrote a Korean translation of the project docs and linked it into the language list</td>
 <td>
 
 [#285](https://github.com/webgpu/webgpufundamentals/pull/285) `merged`
@@ -247,7 +247,7 @@
 </td>
 </tr>
 <tr>
-<td>멀티샘플링 문서의 어색한 한국어 표현·오타 수정 및 기술 용어 통일</td>
+<td>Fixed awkward Korean phrasing and typos in the multisampling doc, unified technical terminology</td>
 <td>
 
 [#208](https://github.com/webgpu/webgpufundamentals/pull/208) `merged`
@@ -255,7 +255,7 @@
 </td>
 </tr>
 <tr>
-<td>WebGPU 멀티샘플링 아티클 한국어 번역 추가</td>
+<td>Added a Korean translation of the WebGPU multisampling article</td>
 <td>
 
 [#207](https://github.com/webgpu/webgpufundamentals/pull/207) `merged`
@@ -268,10 +268,10 @@
 
 **[playcanvas/editor](https://github.com/playcanvas/editor)**
 
-`PlayCanvas 3D 에디터`
+`PlayCanvas 3D editor`
 
 </td>
-<td>텍스처 인스펙터의 Mipmaps 필드에 attribute reference를 추가해 툴팁 문서가 노출되도록 수정</td>
+<td>Added an attribute reference to the Mipmaps field in the texture inspector so its tooltip documentation shows up</td>
 <td>
 
 [#1694](https://github.com/playcanvas/editor/pull/1694) `merged`
@@ -296,30 +296,27 @@
 
 ## Coding Activity
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjddus2)](https://solved.ac/dltjddus2)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjddus2)](https://solved.ac/dltjddus2)
 
 [![wakatime](https://wakatime.com/badge/user/2f42ecac-18b3-4aea-9e84-70d3d28d0008.svg)](https://wakatime.com/@2f42ecac-18b3-4aea-9e84-70d3d28d0008)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
 ## Talks & Knowledge Sharing
 
-지식공유한 내용들입니다.
+Things I've shared with teams.
 
-| 발표 | 주제 |
+| Talk | Topic |
 | --- | --- |
-| [Raw Query에서 TypeORM으로 마이그레이션](https://github.com/YeonSeong-Lee/presentation_material/tree/main/migrate_raw_to_typeorm) | 실서비스의 Raw SQL을 TypeORM으로 점진적으로 옮긴 경험 |
-| [에러 핸들링](https://github.com/YeonSeong-Lee/presentation_material/tree/main/error_handling) | 백엔드에서 일관된 에러 처리 전략 |
-| [DB 백업](https://github.com/YeonSeong-Lee/presentation_material/tree/main/db_backup) | 데이터베이스 백업 설계와 운영 |
-| [역변환 샘플링 (Inverse CDF Method)](https://github.com/YeonSeong-Lee/presentation_material/tree/main/inverse_cdf_method) | 확률분포에서 표본을 뽑는 방법 |
-| [CSG와 HDR](https://github.com/YeonSeong-Lee/presentation_material/tree/main/csg_hdr) | 컴퓨터 그래픽스의 CSG와 HDR 렌더링 |
+| [Migrating from raw queries to TypeORM](https://github.com/YeonSeong-Lee/presentation_material/tree/main/migrate_raw_to_typeorm) | Incrementally moving a production service's raw SQL to TypeORM |
+| [Error handling](https://github.com/YeonSeong-Lee/presentation_material/tree/main/error_handling) | A consistent backend error-handling strategy |
+| [DB backups](https://github.com/YeonSeong-Lee/presentation_material/tree/main/db_backup) | Designing and operating database backups |
+| [Inverse CDF sampling](https://github.com/YeonSeong-Lee/presentation_material/tree/main/inverse_cdf_method) | How to sample from a probability distribution |
+| [CSG and HDR](https://github.com/YeonSeong-Lee/presentation_material/tree/main/csg_hdr) | CSG and HDR rendering in computer graphics |
 
 #### Media
-- [2024 이노베이션아카데미 성과 공유 컨퍼런스 (INNO-CON)](https://www.youtube.com/live/qcIf8i1QRio?t=2984s)
-- [2022 이노콘 (platum 기사)](https://platum.kr/archives/198709)
+- [2024 Innovation Academy showcase conference (INNO-CON)](https://www.youtube.com/live/qcIf8i1QRio?t=2984s)
+- [2022 INNO-CON (Platum article)](https://platum.kr/archives/198709)
 
 ---
 
